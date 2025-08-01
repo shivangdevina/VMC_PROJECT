@@ -1,0 +1,7 @@
+{
+  "email": "test.user@gmail.com",
+  "password": "testpass123",
+  "fullName": "Test User",
+  "phone": "+1234567890",
+  "role": "citizen"
+}
